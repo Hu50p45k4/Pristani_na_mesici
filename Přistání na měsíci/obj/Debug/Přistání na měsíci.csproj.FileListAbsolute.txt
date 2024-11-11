@@ -1,0 +1,10 @@
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\bin\Debug\Přistání na měsíci.exe.config
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\bin\Debug\Přistání na měsíci.exe
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\bin\Debug\Přistání na měsíci.pdb
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání na měsíci.csproj.AssemblyReference.cache
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání_na_měsíci.Form1.resources
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání_na_měsíci.Properties.Resources.resources
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání na měsíci.csproj.GenerateResource.cache
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání na měsíci.csproj.CoreCompileInputs.cache
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání na měsíci.exe
+D:\Ada\škola\IKT\Programování\Přistání na měsíci\Přistání na měsíci\obj\Debug\Přistání na měsíci.pdb
